@@ -1,0 +1,2 @@
+使用cmake构建项目
+使用googletest实现单元测试
